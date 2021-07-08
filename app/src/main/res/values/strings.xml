@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Locating A Place</string>
+    <string-array name="spinnerItems">
+        <item>All</item>
+        <item>HQ-North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+
+</resources>
